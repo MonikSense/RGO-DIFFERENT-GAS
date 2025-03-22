@@ -1,25 +1,13 @@
-target gas,sensor material,Synthesis Method ,Conc. (ppm),Response,Tres(s),Trec (s)
-NO2,Co3O4-rGO,Hydrothermal,5,26.8,90,2400
-NO2,Co3O4-rGO,Hydrothermal,60,82,300,
-NH3,Co3O4-rGO,electrospinning ,5,53.6,4,300
-NO2,NiO-rGO,solvothermal,60,6.2,,
-NH3,SnO-graphene,CVD,50,21,15,30
-NO2,SnO2-NiO-rGO,Hydrothermal,60,62.27,220,835
-NO2,SnO2-graphene,Sol gel,20,9.6,60,300
-NH3,TiO2-Pd-rGO,one-pot polyol,10,14.9,184,81
-HCHO,TiO2-rGO,Thermal reduction,0.5,0.4,70,126
-NH3,ZnO-rGO,Solution processed,25,0.43,30,40
-NO2,WO3-GR,sol gel,7,11.6,,
-NO2,ZnO-rGO,solvothermal,100,17.4,780,1980
-NO2,ZnO-rGO aerogel,solvothermal,50,8,132,164
-HCHO,ZnO-rGO,hydrothermal,2,2,60,
-HCHO,ZnO-rGO,CVD,9,52,36,
-NH3,TiO2-rGO,Hydrothermal,30,3.3,,
-NH3,TiO2-rGO,PRECIPITATION,10,0.62,55,200
-NO2,Sno2-rGO aerogel,Solvothermal,50,6,190,224
-NH3,TiO2-rGO,hydrothermal,10,1.7,114,304
-NH3,SnO2-GN,Hydrothermal,10,5.9,60,60
-NO2,In2O3-RGO,Hydrothermal,5,37.81,,
-NO2,In2O3?rGO,Hydrothermal,30,8.25,240,1440
-NH3,Cu2O-RGO,Hydrothermal,200,2.04,28,206
-NO2,WO3-RGO,ONE POT POLYOL,5,769,540,1080
+target gas,Conc. (ppm),Response,Tres(s),Trec (s)
+NO2,5,26.8,90,2400
+NO2,60,82,300,
+NO2,60,6.2,,
+NO2,60,62.27,220,835
+NO2,20,9.6,60,300
+NO2,7,11.6,,
+NO2,100,17.4,780,1980
+NO2,50,8,132,164
+NO2,50,6,190,224
+NO2,5,37.81,,
+NO2,30,8.25,240,1440
+NO2,5,769,540,1080
